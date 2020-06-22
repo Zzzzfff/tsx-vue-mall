@@ -1,0 +1,12 @@
+.tab-nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 44px;
+  background-color: #fff;
+}
+.tab-nav .acitve {
+  padding-bottom: 4px;
+  color: var(--color-tint);
+  border-bottom: 2px solid var(--color-tint);
+}

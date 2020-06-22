@@ -1,0 +1,8 @@
+.detail-navbar .title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.detail-navbar .title .active {
+  color: var(--color-high-text);
+}

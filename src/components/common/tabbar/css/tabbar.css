@@ -1,0 +1,7 @@
+.tabbar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 49px;
+  background-color: #fff;
+}
